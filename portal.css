@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+}
+nav {
+    display: flex;
+}
+a {
+    background-color: lightblue;
+    color: darkblue;
+    text-decoration: none;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+.grey-bg {
+    background-color: lightgray;
+}
