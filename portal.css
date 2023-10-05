@@ -1,8 +1,12 @@
+* {
+    /* border: 1px solid red; */
+}
 body {
-    background-color: beige;
+    background-color: white;
 }
 nav {
     display: flex;
+    justify-content: center;
 }
 a {
     background-color: lightblue;
@@ -12,6 +16,32 @@ a {
     margin: 5px;
     text-align: center;
 }
+a:hover {
+    background-color: darkblue;
+    color: white;
+}
+h1 {
+    font-size: 2em;
+    text-align: center;
+}
+img {
+    width: 60%;
+    max-width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+p {
+    /* text-align: center; */
+    width: 60%;
+    margin: 10px auto;
+    padding: 10px;
+}
 .grey-bg {
     background-color: lightgray;
+}
+footer {
+    background-color: lightblue;
+}
+footer p {
+    text-align: center;
 }

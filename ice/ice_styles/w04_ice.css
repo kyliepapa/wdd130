@@ -1,0 +1,45 @@
+body {
+    background-color: pink;
+}
+div {
+    margin: 0 auto;
+}
+.centered {
+    text-align: center;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+    color: white;
+}
+h1:hover {
+    color: black;
+}
+#top_quote {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 0.5em;
+    color: white;
+}
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1em;
+    color: white;
+}
+ol {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1em;
+    color: black;
+}
+img {
+    width: 30%;
+}
+#big_quote {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    color: white;
+}
+.bottom_info {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.5em;
+    color: black;
+}
