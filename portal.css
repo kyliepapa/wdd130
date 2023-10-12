@@ -1,8 +1,8 @@
-* {
-    /* border: 1px solid red; */
-}
+@import url('https://fonts.googleapis.com/css2?family=Gabarito&display=swap');
+
 body {
     background-color: white;
+    font-family: Gabarito;
 }
 nav {
     display: flex;
@@ -23,16 +23,20 @@ a:hover {
 h1 {
     font-size: 2em;
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 img {
     width: 60%;
     max-width: 500px;
     display: block;
     margin: 0 auto;
+    border: 3px solid lightblue;
+    padding: 10px;
 }
 p {
     /* text-align: center; */
     width: 60%;
+    max-width: 500px;
     margin: 10px auto;
     padding: 10px;
 }

@@ -1,0 +1,19 @@
+#banner_img {
+    width: 100%;
+    max-width: 1000px;
+    display: block;
+    margin: 0 auto;
+}
+
+section {
+    background-color: grey;
+    padding: 20px;
+    text-align: center;
+}
+section img {
+    width: 20%;
+    border: 8px solid rgb(81, 79, 79);
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-left: 20px;
+}
